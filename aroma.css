@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+*{
+    font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+body{
+  height: 100vh;
+  background:rgb(240, 234, 223);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+p{
+    width: 56%;
+    text-align: center;
+    font-weight: 500;
+  }
+  
+  .container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 270px;
+    justify-content: center;
+  }
+  .hr{
+    width: 100%;
+    opacity: 0.3;
+  } 
+  .hello1{            
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    padding: 10px;
+    gap: 1.6rem;
+    overflow: hidden;  
+  }
+  img{
+    height: 300px;
+    width: 310px;
+  }
+  button{
+  height: 45px;
+  width: 310px;
+  background:rgb(240, 234, 223);
+  }
+  
