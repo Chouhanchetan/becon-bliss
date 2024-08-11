@@ -39,3 +39,6 @@ h2{
     height: 300px;
     width: 310px;
   }
+.container2{
+  display: flex;
+}
