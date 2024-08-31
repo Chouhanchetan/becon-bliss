@@ -1,0 +1,22 @@
+body{
+    background:rgb(240, 234, 223);
+}
+.container{
+    width: 100%;
+    height: 202px;
+}
+img{
+    width: 115px;
+    height: 202px;
+}
+.hello{
+    display: flex;
+    gap: 4rem;
+}
+p{
+    width: 522px;
+}
+b{
+    display: flex;
+    justify-content: flex-end;
+}
