@@ -42,3 +42,8 @@ h2{
 .container2{
   display: flex;
 }
+.footer{
+  height: 500px;
+  position: fixed;
+  bottom: 0;
+}
