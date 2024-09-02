@@ -42,6 +42,8 @@
 </div>
 </div>
     </div>
+        <center><hr class="hr"></center>
+
         <div class="footer">
         <?php
             include('footer.php');
