@@ -41,5 +41,10 @@ include('nav.html');
       <p>Care Instruction</p>
 </div>  
 </div>
+        <div class="footer">
+        <?php
+            include('footer.php');
+        ?>
+    </div>
 </body>
 </html>
