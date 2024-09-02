@@ -22,6 +22,8 @@
         <div class="list"><img src="https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSTYkk3E-u9knNfPdQTMgcSZF1XkCIeESWd2tL1RTm_47oWkzINLBUyODsU9Z77heFkWqXcb6goyy_u0AH6nfZOfZZDIAO2c2b19oZBrKU&usqp=CAE" alt="">Mould Candel</div>
         <div class="list"><img src="https://5.imimg.com/data5/RR/NA/QR/SELLER-102231026/61nbfujtrjl-sl1000-jpg-500x500.jpg" alt="">Tealight Candel</div>
     </div>
+        <center><hr class="hr"></center>
+
     <div class="footer">
         <?php
             include('footer.php');
