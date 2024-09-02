@@ -25,6 +25,8 @@
 <div class="hello1">
 <div class="list"><img src="https://cfw43.rabbitloader.xyz/eyJjIjp0cnVlLCJoIjoiaG91c2VvZmFyb21hLmluIiwidiI6MTY2MjA4OTAxOH0/wp-content/uploads/2024/03/7-webp.webp" alt=""><br>Honeysuckle Bell Jar candle<br>Rs.180<br><button>Shop</button></div>
 </div>
+        <center><hr class="hr"></center>
+
         <div class="footer">
         <?php
             include('footer.php');
