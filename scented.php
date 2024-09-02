@@ -29,6 +29,10 @@ include('nav.html');
 <div class="list"><a href="summer.php"><img src="https://usercontent.one/wp/mariannetaylor.co.uk/wp-content/uploads/2021/08/Colourful-pretty-content-creation-for-Rare-Lumiere-candles.-Styled-beauty-product-stills-photography-by-Marianne-Taylor._0003.jpg?media=1637181377" alt=""></a>Summer Candy votive Candle<br>Rs.499<br><a href="summer.php"><button>Shop</button></a></div>
 <div class="list"><a href="velvet.php"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIxhO-CPReG2VEAy_0-WZqWRjAjkynAU6Jlg&s" alt=""></a>Velvet Bloom<br>Rs.499<br><a href="velvet.php"><button>Shop</button></a></div>
 </div>
-
+    <div class="footer">
+        <?php
+            include('footer.php');
+        ?>
+    </div>
 </body>
 </html>
