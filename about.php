@@ -11,7 +11,11 @@
     include('nav.html');
     ?>
     <div class="container">
-    <div class="slider"></div>
+    <div class="slider">
+        <?php
+        include('slider.html');
+        ?>
+    </div>
     </div> 
     <div class="container1">
         <h2><b>Shop by Category</b></h2>
@@ -23,13 +27,9 @@
         <div class="list"><img src="https://5.imimg.com/data5/RR/NA/QR/SELLER-102231026/61nbfujtrjl-sl1000-jpg-500x500.jpg" alt="">Tealight Candel</div>
     </div>
         <center><hr class="hr"></center>
+        <br>
 
-    <div class="footer">
-        <?php
-            include('footer.php');
-        ?>
-    </div>
-   
+
    
 </body>
 </html>
